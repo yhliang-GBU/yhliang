@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Liang Yuhong’s personal homepage.
-
 A short biography
 ======
 I am currently an Assistant Professor, PI and Researcher at Great Bay University (GBU, 大湾区大学). Previously, I was a senior engineering at Huawei (Hang Zhou, China). I obtained my Ph.D. degree from the Department of Computer Science and Engineering at The Chinese University of Hong Kong under the supervision of [Prof. Yang Ming-Chang](https://www.cse.cuhk.edu.hk/~mcyang/index.html). Before that, I received my bachelor’s degree in computer science from South China University of Technology. 
@@ -17,9 +15,11 @@ Research Interests
 ======
 My research focuses on the problem of data storage, including storage system, memory system, database system and data infrastructure for AI/ML. 
 
-Hiring
+Openings
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+PostDoc Position: Joint PostDoc program with Tsinghua University (Shenzhen) and University of Science and Technology of China .
+Senior Researcher: todo
+Research Assistants/Visiting Students
 
 Create content & metadata
 ------

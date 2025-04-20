@@ -25,16 +25,16 @@ Research Assistants/Visiting Students.
 
 Publications
 ------
-ZonesDB: Building Write-Optimized and Space-Adaptive Key-Value Store on Zoned Storage with Fragmented LSM Tree\\
-Yuhong Liang, Yingjia Wang, Tsun-Yu Yang, Matias Bjørling, and Ming-Chang Yang\\
+ZonesDB: Building Write-Optimized and Space-Adaptive Key-Value Store on Zoned Storage with Fragmented LSM Tree\
+Yuhong Liang, Yingjia Wang, Tsun-Yu Yang, Matias Bjørling, and Ming-Chang Yang\
 ACM Transactions on Storage (TOS), 2025
 
-Leveraging On-demand Processing to Co-optimize Scalability and Efficiency for Fully-external Graph Computation\\
-Tsun-Yu Yang, Yizou Chen, Yuhong Liang, and Ming-Chang Yang\\
+Leveraging On-demand Processing to Co-optimize Scalability and Efficiency for Fully-external Graph Computation\
+Tsun-Yu Yang, Yizou Chen, Yuhong Liang, and Ming-Chang Yang\
 ACM Transactions on Storage (TOS), 2025
 
-Reviving In-Storage Hardware Compression on ZNS SSDs through Host-SSD Collaboration\\
-Yingjia Wang, Tao Lu, Yuhong Liang, Xiang Chen, and Ming-Chang Yang,
+Reviving In-Storage Hardware Compression on ZNS SSDs through Host-SSD Collaboration\
+Yingjia Wang, Tao Lu, Yuhong Liang, Xiang Chen, and Ming-Chang Yang\
 IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025.
 
 Yingjia Wang, Lok Yin Chow, Xirui Nie, Yuhong Liang, and Ming-Chang Yang, “ZnH2: Augmenting ZNS-based Storage System with Host-Managed Heterogeneous Zones,” ACM/IEEE International Conference on Computer-Aided Design (ICCAD), New Jersey, USA, October 27-31, 2024.

@@ -9,14 +9,14 @@ redirect_from:
 
 A short biography
 ======
-I am currently a tenure-track Assistant Professor (independent PI) at Great Bay University (GBU). Previously, I was a senior engineering at Huawei (Hang Zhou, China). I obtained my Ph.D. degree from the Department of Computer Science and Engineering at The Chinese University of Hong Kong under the supervision of [Prof. Yang Ming-Chang](https://www.cse.cuhk.edu.hk/~mcyang/index.html). Before that, I received my bachelor’s degree in computer science from South China University of Technology. 
+I am currently a tenure-track Assistant Professor (independent PI) at Great Bay University (GBU). Previously, I was a senior engineering at Huawei (Hang Zhou, China). I obtained my Ph.D. degree from the Department of Computer Science and Engineering at The Chinese University of Hong Kong under the supervision of [Prof. Yang Ming-Chang](https://www.cse.cuhk.edu.hk/~mcyang/index.html) in 2022. Before that, I received my bachelor’s degree in computer science from South China University of Technology in 2018. 
 
 Research Interests
 ======
 My research focuses on the problem of data storage, including storage system, memory system, database system and data infrastructure for Artificial Intelligence/Machine Learning. 
 
 Openings
-------
+======
 Joint PostDoc program with Tsinghua University (Shenzhen) or University of Science and Technology of China.
 
 Senior Researcher.
@@ -24,7 +24,7 @@ Senior Researcher.
 Research Assistants/Visiting Students.
 
 Publications
-------
+======
 Yuhong Liang, Yingjia Wang, Tsun-Yu Yang, Matias Bjørling, and Ming-Chang Yang, “ZonesDB: Building Write-Optimized and Space-Adaptive Key-Value Store on Zoned Storage with Fragmented LSM Tree,” accepted and to appear in ACM Transactions on Storage (TOS).
 
 Tsun-Yu Yang, Yizou Chen, Yuhong Liang, and Ming-Chang Yang, “Leveraging On-demand Processing to Co-optimize Scalability and Efficiency for Fully-external Graph Computation,” accepted and to appear in ACM Transactions on Storage (TOS).
@@ -47,18 +47,6 @@ Yuhong Liang, and Ming-Chang Yang, “Move-On-Modify: An Efficient yet Crash-Con
 
 Yuhong Liang, Tsun-Yu Yang, and Ming-Chang Yang, “KVIMR: Key-Value Store Aware Data Management Middleware for Interlaced Magnetic Recording Based Hard Disk Drive,” USENIX Annual Technical Conference (USENIX ATC), Virtual Conference, July 14-16, 2021.
 
-**Markdown generator**
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+======
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.

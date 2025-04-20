@@ -23,10 +23,35 @@ Senior Researcher.
 
 Research Assistants/Visiting Students.
 
-Create content & metadata
+Publications
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+ZonesDB: Building Write-Optimized and Space-Adaptive Key-Value Store on Zoned Storage with Fragmented LSM Tree\\
+Yuhong Liang, Yingjia Wang, Tsun-Yu Yang, Matias Bjørling, and Ming-Chang Yang\\
+ACM Transactions on Storage (TOS), 2025
 
+Leveraging On-demand Processing to Co-optimize Scalability and Efficiency for Fully-external Graph Computation\\
+Tsun-Yu Yang, Yizou Chen, Yuhong Liang, and Ming-Chang Yang\\
+ACM Transactions on Storage (TOS), 2025
+
+Reviving In-Storage Hardware Compression on ZNS SSDs through Host-SSD Collaboration\\
+Yingjia Wang, Tao Lu, Yuhong Liang, Xiang Chen, and Ming-Chang Yang,
+IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025.
+
+Yingjia Wang, Lok Yin Chow, Xirui Nie, Yuhong Liang, and Ming-Chang Yang, “ZnH2: Augmenting ZNS-based Storage System with Host-Managed Heterogeneous Zones,” ACM/IEEE International Conference on Computer-Aided Design (ICCAD), New Jersey, USA, October 27-31, 2024.
+
+Tsun-Yu Yang, Yizou Chen, Yuhong Liang, and Ming-Chang Yang, “Seraph: Towards Scalable and Efficient Fully-external Graph Computation via On-demand Processing,” USENIX Conference on File and Storage Technologies (FAST), Santa Clara, CA, USA, February 27-29, 2024.
+
+Chao Wang, Junliang Hu, Tsun-Yu Yang, Yuhong Liang, and Ming-Chang Yang, “SEPH: Scalable, Efficient, and Predictable Hashing on Persistent Memory,” USENIX Symposium on Operating Systems Design and Implementation (OSDI), Boston, MA, USA, July 10–12, 2023.
+
+Shuo-Han Chen, Yuhong Liang, and Ming-Chang Yang, “KVSTL: An Application Support to LSM-Tree based Key-Value Store via Shingled Translation Layer Data Management,” IEEE Transactions on Computers (TC), vol. 71, no. 7, pp. 1598-1611, July 2022.
+
+Yuhong Liang, Ming-Chang Yang, and Shuo-Han Chen, “MAGIC: Making IMR based HDD Perform like CMR based HDD,” IEEE Transactions on Computers (TC), vol. 71, no. 3, pp. 643-657, March 2022.
+
+Tsun-Yu Yang, Yuhong Liang, and Ming-Chang Yang, “Practicably Boosting the Processing Performance of BFS-like Algorithms on Semi-External Graph System via I/O- Efficient Graph Ordering,” USENIX Conference on File and Storage Technologies (FAST), Hybrid Event, Feb. 22-24, 2022.
+
+Yuhong Liang, and Ming-Chang Yang, “Move-On-Modify: An Efficient yet Crash-Consistent Update Strategy for Interlaced Magnetic Recording,” ACM/IEEE Design Automation Conference (DAC), San Francisco, USA, Dec. 5-9, 2021.
+
+Yuhong Liang, Tsun-Yu Yang, and Ming-Chang Yang, “KVIMR: Key-Value Store Aware Data Management Middleware for Interlaced Magnetic Recording Based Hard Disk Drive,” USENIX Annual Technical Conference (USENIX ATC), Virtual Conference, July 14-16, 2021.
 **Markdown generator**
 
 The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator

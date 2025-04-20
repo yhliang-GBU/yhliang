@@ -48,5 +48,4 @@ Yuhong Liang, and Ming-Chang Yang, “Move-On-Modify: An Efficient yet Crash-Con
 Yuhong Liang, Tsun-Yu Yang, and Ming-Chang Yang, “KVIMR: Key-Value Store Aware Data Management Middleware for Interlaced Magnetic Recording Based Hard Disk Drive,” USENIX Annual Technical Conference (USENIX ATC), Virtual Conference, July 14-16, 2021.
 
 
-======
 

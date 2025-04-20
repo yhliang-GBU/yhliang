@@ -11,18 +11,13 @@ Hi, this is Liang Yuhong’s personal homepage.
 
 A short biography
 ======
-I am currently an Assistant Professor, PI and Researcher at Great Bay University (GBU, 大湾区大学). Previously, I was a senior engineering at Huawei (Hang Zhou, China). I obtained my Ph.D. degree from the Department of Computer Science and Engineering at The Chinese University of Hong Kong, where I was supervised by [Prof. Yang Ming-Chang](https://www.cse.cuhk.edu.hk/~mcyang/index.html). Before that, I received my bachelor’s degree in computer science from South China University of Technology. 
+I am currently an Assistant Professor, PI and Researcher at Great Bay University (GBU, 大湾区大学). Previously, I was a senior engineering at Huawei (Hang Zhou, China). I obtained my Ph.D. degree from the Department of Computer Science and Engineering at The Chinese University of Hong Kong under the supervision of [Prof. Yang Ming-Chang](https://www.cse.cuhk.edu.hk/~mcyang/index.html). Before that, I received my bachelor’s degree in computer science from South China University of Technology. 
 
-Research
+Research Interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+My research focuses on the problem of data storage, including storage system, memory system and database system. 
 
-Site-wide configuration
+Hiring
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 

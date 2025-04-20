@@ -15,7 +15,7 @@ I am currently an Assistant Professor, PI and Researcher at Great Bay University
 
 Research Interests
 ======
-My research focuses on the problem of data storage, including storage system, memory system and database system. 
+My research focuses on the problem of data storage, including storage system, memory system, database system and data infrastructure for AI/ML. 
 
 Hiring
 ------

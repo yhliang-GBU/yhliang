@@ -9,17 +9,19 @@ redirect_from:
 
 A short biography
 ======
-I am currently a tenure-track Assistant Professor and Researcher at Great Bay University (GBU). Previously, I was a senior engineering at Huawei (Hang Zhou, China). I obtained my Ph.D. degree from the Department of Computer Science and Engineering at The Chinese University of Hong Kong under the supervision of [Prof. Yang Ming-Chang](https://www.cse.cuhk.edu.hk/~mcyang/index.html). Before that, I received my bachelor’s degree in computer science from South China University of Technology. 
+I am currently a tenure-track Assistant Professor (independent PI) at Great Bay University (GBU). Previously, I was a senior engineering at Huawei (Hang Zhou, China). I obtained my Ph.D. degree from the Department of Computer Science and Engineering at The Chinese University of Hong Kong under the supervision of [Prof. Yang Ming-Chang](https://www.cse.cuhk.edu.hk/~mcyang/index.html). Before that, I received my bachelor’s degree in computer science from South China University of Technology. 
 
 Research Interests
 ======
-My research focuses on the problem of data storage, including storage system, memory system, database system and data infrastructure for AI/ML. 
+My research focuses on the problem of data storage, including storage system, memory system, database system and data infrastructure for Artificial Intelligence/Machine Learning. 
 
 Openings
 ------
-PostDoc Position: Joint PostDoc program with Tsinghua University (Shenzhen) and University of Science and Technology of China .
-Senior Researcher: todo
-Research Assistants/Visiting Students
+Joint PostDoc program with Tsinghua University (Shenzhen) or University of Science and Technology of China.
+
+Senior Researcher.
+
+Research Assistants/Visiting Students.
 
 Create content & metadata
 ------

@@ -52,6 +52,7 @@ Tsun-Yu Yang, Yuhong Liang, and Ming-Chang Yang, “Practicably Boosting the Pro
 Yuhong Liang, and Ming-Chang Yang, “Move-On-Modify: An Efficient yet Crash-Consistent Update Strategy for Interlaced Magnetic Recording,” ACM/IEEE Design Automation Conference (DAC), San Francisco, USA, Dec. 5-9, 2021.
 
 Yuhong Liang, Tsun-Yu Yang, and Ming-Chang Yang, “KVIMR: Key-Value Store Aware Data Management Middleware for Interlaced Magnetic Recording Based Hard Disk Drive,” USENIX Annual Technical Conference (USENIX ATC), Virtual Conference, July 14-16, 2021.
+
 **Markdown generator**
 
 The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator

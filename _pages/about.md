@@ -13,7 +13,7 @@ A short biography
 ======
 I am currently an Assistant Professor, PI and Researcher at Great Bay University (GBU, 大湾区大学). Previously, I was a senior engineering at Huawei (Hang Zhou, China). I obtained my Ph.D. degree from the Department of Computer Science and Engineering at The Chinese University of Hong Kong, where I was supervised by [Prof. Yang Ming-Chang](https://www.cse.cuhk.edu.hk/~mcyang/index.html). Before that, I received my bachelor’s degree in computer science from South China University of Technology. 
 
-Getting started
+Research
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 

@@ -18,7 +18,7 @@ I am interested in the problem of data storage, including storage system, memory
 Openings
 ======
 
-We currently have the following openings. Feel to drop me an email with your CV if you are interested!
+We currently have the following openings. Feel free to drop me an email with your CV if you are interested!
 
 * Joint PostDoc program with Tsinghua University (Shenzhen) or University of Science and Technology of China.
 

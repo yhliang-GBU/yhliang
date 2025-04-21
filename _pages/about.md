@@ -18,7 +18,9 @@ I am interested in the problem of data storage, including storage systems, memor
 We currently have the following openings. ​​Please do not hesitate to contact me​​ with your CV if you are interested!
 
 ​​*Joint Postdoctoral Program​​ with ​​Tsinghua University (Shenzhen)​​ or ​​the University of Science and Technology of China​​
+
 *Senior Researcher
+
 *Research Assistant/​​Visiting Student​​ positions
 
 <h2 id="publications">Publications</h2>  

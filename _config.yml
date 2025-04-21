@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "person_pic.png"
+  avatar           : "person_pic.jpg"
   name             : "Yuhong LIANG"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"

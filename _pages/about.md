@@ -15,6 +15,7 @@ I am currently a tenure-track Assistant Professor (independent PI) at [Great Bay
 I am interested in the problem of data storage, including storage systems, memory systems, database systems and data infrastructure for Artificial Intelligence/Machine Learning. 
 
 <h2 id="openings">Openings</h2> 
+
 We currently have the following openings. ​​Please do not hesitate to contact me​​ with your CV if you are interested!
 
 ​​* Joint Postdoctoral Program​​ with ​​Tsinghua University (Shenzhen)​​ or ​​the University of Science and Technology of China​​
@@ -24,7 +25,8 @@ We currently have the following openings. ​​Please do not hesitate to contac
 * Research Assistant/​​Visiting Student​​ positions
 
 <h2 id="publications">Publications</h2>  
-* **Yuhong Liang**, Yingjia Wang, Tsun-Yu Yang, Matias Bjørling, and Ming-Chang Yang, “ZonesDB: Building Write-Optimized and Space-Adaptive Key-Value Store on Zoned Storage with Fragmented LSM Tree,” accepted and to appear in ACM Transactions on Storage (TOS).
+
+* **Yuhong Liang** , Yingjia Wang, Tsun-Yu Yang, Matias Bjørling, and Ming-Chang Yang, “ZonesDB: Building Write-Optimized and Space-Adaptive Key-Value Store on Zoned Storage with Fragmented LSM Tree,” accepted and to appear in ACM Transactions on Storage (TOS).
 
 * Tsun-Yu Yang, Yizou Chen, **Yuhong Liang**, and Ming-Chang Yang, “Leveraging On-demand Processing to Co-optimize Scalability and Efficiency for Fully-external Graph Computation,” accepted and to appear in ACM Transactions on Storage (TOS).
 

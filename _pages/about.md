@@ -15,7 +15,7 @@ I am currently a tenure-track Assistant Professor (independent PI) at Great Bay 
 I am interested in the problem of data storage, including storage system, memory system, database system and data infrastructure for Artificial Intelligence/Machine Learning. 
 
 <h2 id="openings">Openings</h2> 
-We currently have the following openings. Feel free to drop me an email with your CV if you are interested!
+We currently have the following openings. Please feel free to drop me an email with your CV if you are interested!
 
 * Joint PostDoc program with Tsinghua University (Shenzhen) or University of Science and Technology of China.
 

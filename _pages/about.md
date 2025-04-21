@@ -26,7 +26,7 @@ We currently have the following openings. Feel free to drop me an email with you
 
 * Research Assistants/Visiting Students.
 
-Publications
+<h2 id="Publications">Publications</h2>  
 ======
 * Yuhong Liang, Yingjia Wang, Tsun-Yu Yang, Matias Bjørling, and Ming-Chang Yang, “ZonesDB: Building Write-Optimized and Space-Adaptive Key-Value Store on Zoned Storage with Fragmented LSM Tree,” accepted and to appear in ACM Transactions on Storage (TOS).
 

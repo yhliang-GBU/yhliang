@@ -8,20 +8,18 @@ redirect_from:
 ---
 
 <h2 id="biography">Biography</h2> 
-I am currently a tenure-track Assistant Professor (independent PI) at Great Bay University (GBU). Previously, I was a senior engineer at Huawei (Hangzhou, China). I obtained my Ph.D. degree from the Department of Computer Science and Engineering at The Chinese University of Hong Kong under the supervision of [Prof. Ming-Chang YANG](https://www.cse.cuhk.edu.hk/~mcyang/index.html) in 2022. Before that, I received my bachelor’s degree in computer science from South China University of Technology in 2018. 
+I am currently a tenure-track Assistant Professor (independent PI) at Great Bay University (GBU). Previously, I was a senior engineer at Huawei (Hangzhou, China). I obtained my Ph.D. degree from the Department of Computer Science and Engineering at The Chinese University of Hong Kong under the supervision of [Prof. Ming-Chang YANG](https://www.cse.cuhk.edu.hk/~mcyang/index.html) in 2022. Before that, I received my Bachelor’s degree in computer science from South China University of Technology in 2018. 
 
 
 <h2 id="research">Research Interests</h2> 
-I am interested in the problem of data storage, including storage system, memory system, database system and data infrastructure for Artificial Intelligence/Machine Learning. 
+I am interested in the problem of data storage, including storage systems, memory systems, database systems and data infrastructure for Artificial Intelligence/Machine Learning. 
 
 <h2 id="openings">Openings</h2> 
-We currently have the following openings. Please feel free to drop me an email with your CV if you are interested!
+We currently have the following openings. ​​Please do not hesitate to contact me​​ with your CV if you are interested!
 
-* Joint PostDoc program with Tsinghua University (Shenzhen) or University of Science and Technology of China.
-
-* Senior Researcher.
-
-* Research Assistants/Visiting Students.
+​​*Joint Postdoctoral Program​​ with ​​Tsinghua University (Shenzhen)​​ or ​​the University of Science and Technology of China​​
+*Senior Researcher
+*Research Assistant/​​Visiting Student​​ positions
 
 <h2 id="publications">Publications</h2>  
 * Yuhong Liang, Yingjia Wang, Tsun-Yu Yang, Matias Bjørling, and Ming-Chang Yang, “ZonesDB: Building Write-Optimized and Space-Adaptive Key-Value Store on Zoned Storage with Fragmented LSM Tree,” accepted and to appear in ACM Transactions on Storage (TOS).

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Liang Yuhong"
+#title: "Liang Yuhong"
 author_profile: true
 redirect_from: 
   - /about/

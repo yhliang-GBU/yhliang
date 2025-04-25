@@ -13,7 +13,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://yohannliang2016.github.io/yhliang/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://yhliang-gbu.github.io/yhliang/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -29,7 +29,7 @@ author:
   location         : "Dongguan, China"
   employer         : "Great Bay University"
   uri              : # URL
-  email            : "yohannliang@gmail.com" 
+  email            : "yhliang@gbu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

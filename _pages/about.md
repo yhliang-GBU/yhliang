@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <h2 id="biography">Biography</h2> 
-I am currently a tenure-track Assistant Professor (independent PI) at [Great Bay University (GBU)](https://www.gbu.edu.cn/). Previously, I was a senior engineer at Huawei (Hangzhou, China). I obtained my Ph.D. degree from the Department of Computer Science and Engineering at The Chinese University of Hong Kong under the supervision of [Prof. Ming-Chang YANG](https://www.cse.cuhk.edu.hk/~mcyang/index.html) in 2022. Before that, I received my Bachelor’s degree in computer science from South China University of Technology in 2018. 
+I am currently a tenure-track Assistant Professor and researcher at [Great Bay University (GBU)](https://www.gbu.edu.cn/). Previously, I was a senior engineer at Huawei (Hangzhou, China). I obtained my Ph.D. degree from the Department of Computer Science and Engineering at The Chinese University of Hong Kong under the supervision of [Prof. Ming-Chang YANG](https://www.cse.cuhk.edu.hk/~mcyang/index.html) in 2022. Before that, I received my Bachelor’s degree in computer science from South China University of Technology in 2018. 
 
 
 <h2 id="research">Research Interests</h2> 
@@ -18,18 +18,19 @@ I am interested in the problem of data storage, including storage systems, memor
 
 We currently have the following openings. ​​Please do not hesitate to contact me​​ with your CV if you are interested!
 
-* Joint Postdoctoral Program​​ with ​​Tsinghua University (Shenzhen)​​ or ​​the University of Science and Technology of China​​
+* Joint Postdoctoral Program​​ with ​​Tsinghua University (Shenzhen)​​
 
-* Senior Researcher
+* Special Researcher
 
 * Research Assistant/​​Visiting Student​​ positions
 
 <h2 id="publications">Publications</h2>  
+* Lok Yin Chow, Yingjia Wang, **Yuhong Liang**, and Ming-Chang Yang, "Unlocking the Full Potential of Dual-Interface SSDs: A Comprehensive Hardware and Software Perspective," accepted and to appear in ACM Transactions on Embedded Computing Systems (TECS). (Integrated with ACM/IEEE CODES+ISSS '25) (CCF B)
 
-* **Yuhong Liang** , Yingjia Wang, Tsun-Yu Yang, Matias Bjørling, and Ming-Chang Yang, “ZonesDB: Building Write-Optimized and Space-Adaptive Key-Value Store on Zoned Storage with Fragmented LSM Tree,” accepted and to appear in ACM Transactions on Storage (**TOS**). (CCF A)
+* **Yuhong Liang**, Yingjia Wang, Tsun-Yu Yang, Matias Bjørling, and Ming-Chang Yang, “ZonesDB: Building Write-Optimized and Space-Adaptive Key-Value Store on Zoned Storage with Fragmented LSM Tree,” ACM Transactions on Storage (TOS), vol. 21, no. 2, pp. 1-24, March, 2025. (CCF A)
 
-* Tsun-Yu Yang, Yizou Chen, **Yuhong Liang**, and Ming-Chang Yang, “Leveraging On-demand Processing to Co-optimize Scalability and Efficiency for Fully-external Graph Computation,” accepted and to appear in ACM Transactions on Storage (**TOS**). (CCF A)
-
+* Tsun-Yu Yang, Yizou Chen, **Yuhong Liang**, and Ming-Chang Yang, "Leveraging On-demand Processing to Co-optimize Scalability and Efficiency for Fully-external Graph Computation," ACM Transactions on Storage (TOS), vol. 21, no. 11, pp. 1-31, February 2025. (CCF A)
+  
 * Yingjia Wang, Tao Lu, **Yuhong Liang**, Xiang Chen, and Ming-Chang Yang, “Reviving In-Storage Hardware Compression on ZNS SSDs through Host-SSD Collaboration,” IEEE International Symposium on High-Performance Computer Architecture (**HPCA**), Las Vegas, NV, USA, March 1–5, 2025.  (CCF A)
 
 * Yingjia Wang, Lok Yin Chow, Xirui Nie, **Yuhong Liang**, and Ming-Chang Yang, “ZnH2: Augmenting ZNS-based Storage System with Host-Managed Heterogeneous Zones,” ACM/IEEE International Conference on Computer-Aided Design (**ICCAD**), New Jersey, USA, October 27-31, 2024.  (CCF B)

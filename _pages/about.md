@@ -50,5 +50,8 @@ We currently have the following openings. ​​Please do not hesitate to contac
 
 * **Yuhong Liang**, Tsun-Yu Yang, and Ming-Chang Yang, “KVIMR: Key-Value Store Aware Data Management Middleware for Interlaced Magnetic Recording Based Hard Disk Drive,” USENIX Annual Technical Conference (**USENIX ATC**), Virtual Conference, July 14-16, 2021.  (CCF A)
 
+<h2 id="publications">Technical Program Committee</h2>  
+
+ACM/IEEE Asia and South Pacific Design Automation Conference (ASP-DAC), 2026
 
 

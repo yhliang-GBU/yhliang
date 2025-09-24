@@ -26,11 +26,11 @@ We currently have the following openings. ​​Please do not hesitate to contac
 
 <h2 id="publications">Publications</h2>  
 
-* Lok Yin Chow, Yingjia Wang, **Yuhong Liang**, and Ming-Chang Yang, "Unlocking the Full Potential of Dual-Interface SSDs: A Comprehensive Hardware and Software Perspective," accepted and to appear in ACM Transactions on Embedded Computing Systems (TECS). (Integrated with ACM/IEEE CODES+ISSS '25) (CCF B)
+* Lok Yin Chow, Yingjia Wang, **Yuhong Liang**, and Ming-Chang Yang, "Unlocking the Full Potential of Dual-Interface SSDs: A Comprehensive Hardware and Software Perspective," accepted and to appear in ACM Transactions on Embedded Computing Systems (**TECS**). (Integrated with ACM/IEEE **CODES+ISSS** '25) (CCF B)
 
-* **Yuhong Liang**, Yingjia Wang, Tsun-Yu Yang, Matias Bjørling, and Ming-Chang Yang, “ZonesDB: Building Write-Optimized and Space-Adaptive Key-Value Store on Zoned Storage with Fragmented LSM Tree,” ACM Transactions on Storage (TOS), vol. 21, no. 2, pp. 1-24, March, 2025. (CCF A)
+* **Yuhong Liang**, Yingjia Wang, Tsun-Yu Yang, Matias Bjørling, and Ming-Chang Yang, “ZonesDB: Building Write-Optimized and Space-Adaptive Key-Value Store on Zoned Storage with Fragmented LSM Tree,” ACM Transactions on Storage (**TOS**), vol. 21, no. 2, pp. 1-24, March, 2025. (CCF A)
 
-* Tsun-Yu Yang, Yizou Chen, **Yuhong Liang**, and Ming-Chang Yang, "Leveraging On-demand Processing to Co-optimize Scalability and Efficiency for Fully-external Graph Computation," ACM Transactions on Storage (TOS), vol. 21, no. 11, pp. 1-31, February 2025. (CCF A)
+* Tsun-Yu Yang, Yizou Chen, **Yuhong Liang**, and Ming-Chang Yang, "Leveraging On-demand Processing to Co-optimize Scalability and Efficiency for Fully-external Graph Computation," ACM Transactions on Storage (**TOS**), vol. 21, no. 11, pp. 1-31, February 2025. (CCF A)
   
 * Yingjia Wang, Tao Lu, **Yuhong Liang**, Xiang Chen, and Ming-Chang Yang, “Reviving In-Storage Hardware Compression on ZNS SSDs through Host-SSD Collaboration,” IEEE International Symposium on High-Performance Computer Architecture (**HPCA**), Las Vegas, NV, USA, March 1–5, 2025.  (CCF A)
 
@@ -49,6 +49,9 @@ We currently have the following openings. ​​Please do not hesitate to contac
 * **Yuhong Liang**, and Ming-Chang Yang, “Move-On-Modify: An Efficient yet Crash-Consistent Update Strategy for Interlaced Magnetic Recording,” ACM/IEEE Design Automation Conference (**DAC**), San Francisco, USA, Dec. 5-9, 2021.  (CCF A)
 
 * **Yuhong Liang**, Tsun-Yu Yang, and Ming-Chang Yang, “KVIMR: Key-Value Store Aware Data Management Middleware for Interlaced Magnetic Recording Based Hard Disk Drive,” USENIX Annual Technical Conference (**USENIX ATC**), Virtual Conference, July 14-16, 2021.  (CCF A)
+
+<h2 id="Teaching">Teaching</h2>  
+Introduction to Computer Science (Practice Class), Undergraduate-level, Fall 2025
 
 <h2 id="publications">Technical Program Committee</h2>  
 

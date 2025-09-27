@@ -18,11 +18,11 @@ I am interested in the problem of data storage, including storage systems, memor
 
 We currently have the following openings. ​​Please do not hesitate to contact me​​ with your CV if you are interested!
 
-* [Joint Postdoctoral Program​​ with ​​Tsinghua University (Shenzhen)​​] (https://mp.weixin.qq.com/s/q4BJyedbpqOlfA27JYYbXg)
+* [Joint Postdoctoral Program​​ with ​​Tsinghua University (Shenzhen)​​](https://mp.weixin.qq.com/s/q4BJyedbpqOlfA27JYYbXg)
 
-* [Special Researcher] (https://mp.weixin.qq.com/s/Klo_x_LIWNULqQY4IKQDJA)
+* [Special Researcher](https://mp.weixin.qq.com/s/Klo_x_LIWNULqQY4IKQDJA)
 
-* [Research Assistant/​​Visiting Student​​ positions] (https://mp.weixin.qq.com/s/aoSmTpET-OfNzDYUsInbkQ?poc_token=HEFQ12ij_3tpm302vNVGePBPfo7z6k4TSOl9Prjj)
+* [Research Assistant/​​Visiting Student​​ positions](https://mp.weixin.qq.com/s/aoSmTpET-OfNzDYUsInbkQ?poc_token=HEFQ12ij_3tpm302vNVGePBPfo7z6k4TSOl9Prjj)
 
 <h2 id="publications">Publications</h2>  
 

@@ -28,7 +28,7 @@ We currently have the following openings. ​​Please do not hesitate to contac
 
 * Lok Yin Chow, Yingjia Wang, **Yuhong Liang**, and Ming-Chang Yang, "Unlocking the Full Potential of Dual-Interface SSDs: A Comprehensive Hardware and Software Perspective," accepted and to appear in ACM Transactions on Embedded Computing Systems (**TECS**). (Integrated with ACM/IEEE **CODES+ISSS** '25) (CCF B)
 
-* **Yuhong Liang**, Yingjia Wang, Tsun-Yu Yang, Matias Bjørling, and Ming-Chang Yang, “ZonesDB: Building Write-Optimized and Space-Adaptive Key-Value Store on Zoned Storage with Fragmented LSM Tree,” ACM Transactions on Storage (**TOS**), vol. 21, no. 2, pp. 1-24, March, 2025. (CCF A)
+* **Yuhong Liang**, Yingjia Wang, Tsun-Yu Yang, Matias Bjørling, and Ming-Chang Yang, “ZonesDB: Building Write-Optimized and Space-Adaptive Key-Value Store on Zoned Storage with Fragmented LSM Tree,” ACM Transactions on Storage (**TOS**), vol. 21, no. 2, pp. 1-24, May, 2025. (CCF A)
 
 * Tsun-Yu Yang, Yizou Chen, **Yuhong Liang**, and Ming-Chang Yang, "Leveraging On-demand Processing to Co-optimize Scalability and Efficiency for Fully-external Graph Computation," ACM Transactions on Storage (**TOS**), vol. 21, no. 11, pp. 1-31, February 2025. (CCF A)
   

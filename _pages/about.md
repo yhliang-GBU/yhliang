@@ -24,9 +24,9 @@ We currently have the following openings. ​​Please do not hesitate to contac
 
 <h2 id="publications">Publications</h2>  
 
-* Lok Yin Chow, Yingjia Wang, **Yuhong Liang**, and Ming-Chang Yang, "Write Buffer Strategies for Zoned Namespace SSDs: Lessons from Hardware Verification," accepted and to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). (Integrated with ACM/IEEE CASES '26)
+* Lok Yin Chow, Yingjia Wang, **Yuhong Liang**, and Ming-Chang Yang, "Write Buffer Strategies for Zoned Namespace SSDs: Lessons from Hardware Verification," accepted and to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**). (CCF A) .(Integrated with ACM/IEEE **CASES** '26)
 
-* Lok Yin Chow, Yingjia Wang, **Yuhong Liang**, and Ming-Chang Yang, "Unlocking the Full Potential of Dual-Interface SSDs: A Comprehensive Hardware and Software Perspective," accepted and to appear in ACM Transactions on Embedded Computing Systems (**TECS**). (Integrated with ACM/IEEE **CODES+ISSS** '25) (CCF B)
+* Lok Yin Chow, Yingjia Wang, **Yuhong Liang**, and Ming-Chang Yang, "Unlocking the Full Potential of Dual-Interface SSDs: A Comprehensive Hardware and Software Perspective," accepted and to appear in ACM Transactions on Embedded Computing Systems (**TECS**).  (CCF B) (Integrated with ACM/IEEE **CODES+ISSS** '25)
 
 * **Yuhong Liang**, Yingjia Wang, Tsun-Yu Yang, Matias Bjørling, and Ming-Chang Yang, “ZonesDB: Building Write-Optimized and Space-Adaptive Key-Value Store on Zoned Storage with Fragmented LSM Tree,” ACM Transactions on Storage (**TOS**), vol. 21, no. 2, pp. 1-24, May, 2025. (CCF A)
 
@@ -59,10 +59,9 @@ Introduction to Computer Science (Practice Class), Undergraduate-level, Fall 202
 Introduction to Computer Science (Practice Class), Undergraduate-level, Fall 2025
 
 <h2 id="publications">Technical Program Committee</h2>  
+ACM/IEEE Asia and South Pacific Design Automation Conference (ASP-DAC), 2027
 
 The 18th International Conference on Networking, Architecture, and Storage (NAS), 2026
-
-ACM/IEEE Asia and South Pacific Design Automation Conference (ASP-DAC), 2027
 
 ACM/IEEE Asia and South Pacific Design Automation Conference (ASP-DAC), 2026
 

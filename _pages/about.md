@@ -18,13 +18,13 @@ I am interested in the problem of data storage, including storage systems, memor
 
 We currently have the following openings. ​​Please do not hesitate to contact me​​ with your CV if you are interested!
 
-* [Joint Postdoctoral Program​​ with ​​Tsinghua University (Shenzhen)​​](https://mp.weixin.qq.com/s/q4BJyedbpqOlfA27JYYbXg)
-
-* [Special Researcher](https://mp.weixin.qq.com/s/Klo_x_LIWNULqQY4IKQDJA)
+* [Joint Postdoctoral Program​​ with University of Science and Technology of China
 
 * [Research Assistant/​​Visiting Student​​ positions](https://mp.weixin.qq.com/s/aoSmTpET-OfNzDYUsInbkQ?poc_token=HEFQ12ij_3tpm302vNVGePBPfo7z6k4TSOl9Prjj)
 
 <h2 id="publications">Publications</h2>  
+
+* Lok Yin Chow, Yingjia Wang, **Yuhong Liang**, and Ming-Chang Yang, "Write Buffer Strategies for Zoned Namespace SSDs: Lessons from Hardware Verification," accepted and to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). (Integrated with ACM/IEEE CASES '26)
 
 * Lok Yin Chow, Yingjia Wang, **Yuhong Liang**, and Ming-Chang Yang, "Unlocking the Full Potential of Dual-Interface SSDs: A Comprehensive Hardware and Software Perspective," accepted and to appear in ACM Transactions on Embedded Computing Systems (**TECS**). (Integrated with ACM/IEEE **CODES+ISSS** '25) (CCF B)
 
@@ -51,9 +51,18 @@ We currently have the following openings. ​​Please do not hesitate to contac
 * **Yuhong Liang**, Tsun-Yu Yang, and Ming-Chang Yang, “KVIMR: Key-Value Store Aware Data Management Middleware for Interlaced Magnetic Recording Based Hard Disk Drive,” USENIX Annual Technical Conference (**USENIX ATC**), Virtual Conference, July 14-16, 2021.  (CCF A)
 
 <h2 id="Teaching">Teaching</h2>  
+
+Introduction to Computer System, Undergraduate-level, Fall 2026
+
+Introduction to Computer Science (Practice Class), Undergraduate-level, Fall 2026
+
 Introduction to Computer Science (Practice Class), Undergraduate-level, Fall 2025
 
 <h2 id="publications">Technical Program Committee</h2>  
+
+The 18th International Conference on Networking, Architecture, and Storage (NAS), 2026
+
+ACM/IEEE Asia and South Pacific Design Automation Conference (ASP-DAC), 2027
 
 ACM/IEEE Asia and South Pacific Design Automation Conference (ASP-DAC), 2026
 
